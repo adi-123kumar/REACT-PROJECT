@@ -1,0 +1,8 @@
+.mainbox{
+    display: flex;
+    max-width: 100%;
+    max-height: 550px;
+    margin:50px 100px;
+    gap: 100px;
+    padding-left: 70px;
+}

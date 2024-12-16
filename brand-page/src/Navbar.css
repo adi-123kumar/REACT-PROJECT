@@ -1,0 +1,28 @@
+nav{
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    max-width: 100%;
+}
+ul{
+    display: flex;
+    list-style-type: none;
+    justify-content: space-between;
+   width: 333px;
+   
+}
+.loginbutton{
+    width: 103px;
+    height: 40px;
+    color: white;
+    background-color: #D01C28;
+}
+.loginbutton:hover{
+    background-color: black;
+}
+ul li:hover{
+    text-decoration: underline;
+
+    font-weight: 800;
+}
+
